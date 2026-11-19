@@ -62,4 +62,4 @@ Hermes `pdf` skill) plus a vision model.
 
 ## License
 
-MIT
+MIT-0 (MIT No Attribution) — free to use, modify, and redistribute, no attribution required. Same license as the ClawHub listing.

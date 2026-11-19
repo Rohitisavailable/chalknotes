@@ -4,7 +4,7 @@ description: "Udemy course extraction + hand-drawn Excalidraw PDF notes."
 category: note-taking
 version: 1.0.0
 author: Hermes Agent
-license: MIT
+license: MIT-0
 metadata:
   hermes:
     tags: [udemy, curriculum, course-info, excalidraw, study-notes, pdf, education]
